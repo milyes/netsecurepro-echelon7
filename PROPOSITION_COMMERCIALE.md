@@ -16,3 +16,10 @@
 * **Tarif :** 497 $/mois (+ taxes applicables) | **Déploiement 30 jours :** Inclus (0 $)
 * **Nom / Entreprise :** ___________________________ **Date :** _______________
 * **Signature :** __________________________________________________________
+
+---
+
+### 6. Preuves de Performance Matérielle (Benchmark Z-Core Native)
+* **Vitesse d'exécution :** **8.08 secondes** (3 900 tokens traités en 39 lots séquentiels) contre **1 092 secondes** sur une architecture monolithe classique (135x plus rapide).
+* **Débit & Chiffrement :** **930 MB/s I/O** avec chiffrement matériel **174.5 MB/s AES-256** et empreinte CPU de **0.28s**.
+* **Architecture Zero-Storage :** Exécution intégrale en mémoire vive (RAM) garantissant qu'aucune donnée sensible ne reste exposée sur disque (Conformité Loi 25).
